@@ -7,6 +7,7 @@ The program is designed to encrypt the contents of `file.txt` and write the encr
 Files
 
 encryptor.cpp – Encrypts file.txt using RC4.
+
 decryptor.cpp – Decrypts file.txt and restores the original content.
 
 How It Works
